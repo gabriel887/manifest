@@ -1,0 +1,36 @@
+{
+    "name": "Site de Warcraft 3 do Gabriel Valentim",
+    "short_name": "Warcraft3",
+    "start_url": "?/home=true",
+    "icons": [{
+            "src": "/img/icone16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icone32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icone48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icon64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icone128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        }
+    ],
+    "theme-color": "#d35400",
+    "background-color": "#fff",
+    "display": "fullscreen",
+    "orientation": "any"
+
+}
